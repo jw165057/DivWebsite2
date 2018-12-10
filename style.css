@@ -4,6 +4,10 @@
     margin-right: auto;
 }
 
+body {
+    background-image: url(morocco-blue.png);
+}
+
 .headertop {
     height: 75px;
     background-color: coral;
