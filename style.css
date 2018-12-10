@@ -5,8 +5,9 @@
 }
 
 .headertop {
-    height: 50px;
+    height: 75px;
     background-color: coral;
+    font-family: 'Bungee', cursive;
 }
 
 .headerbottom {
@@ -26,6 +27,7 @@
     width: 60%;
     float: left;
     background-color: darkgray;
+    font-family: 'Roboto', sans-serif;
 }
 
 .columnright {
